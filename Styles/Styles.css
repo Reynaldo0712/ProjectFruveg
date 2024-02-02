@@ -249,6 +249,10 @@ p {
  {
   margin-top: 80px;
  }
+ .item-number
+ {
+  color: white;
+ }
   .navbar-dark .navbar-nav .nav-link {
     padding: 23px 15px;
   }
