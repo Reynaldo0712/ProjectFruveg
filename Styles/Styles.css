@@ -283,6 +283,16 @@ p {
     transform-origin: top;
   }
 }
+
+
+@media screen and (max-width: 200px) {
+
+  .item-ban
+  {
+    margin-top: 170px;
+  }
+
+}
 .c-slide
 {
   width: 100%;
