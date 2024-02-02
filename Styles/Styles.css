@@ -249,6 +249,10 @@ p {
  {
   margin-top: 80px;
  }
+ .item-number
+ {
+  color: white;
+ }
   .navbar-dark .navbar-nav .nav-link {
     padding: 23px 15px;
   }
@@ -278,6 +282,16 @@ p {
     -ms-transform-origin: top;
     transform-origin: top;
   }
+}
+
+
+@media screen and (max-width: 444px) {
+
+  .item-ban
+  {
+    margin-top: 150px;
+  }
+
 }
 .c-slide
 {
