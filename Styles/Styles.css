@@ -285,11 +285,11 @@ p {
 }
 
 
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 390px) {
 
   .item-ban
   {
-    margin-top: 170px;
+    margin-top: 90px;
   }
 
 }
